@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kbd)(type Legacy)(uri /Users/sh0e1/workspace/gopath/src/github.com/foostan/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name Lily58-cache)(type Legacy)(uri /Users/sh0e1/workspace/gopath/src/github.com/kata0510/Lily58/pcb/Lily58-cache.lib)(options "")(descr ""))
+)
